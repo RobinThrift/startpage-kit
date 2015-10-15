@@ -1,0 +1,19 @@
+{
+  "name": "startpage-kit",
+  "version": "1.0.0",
+  "description": "Library for building a start page for your browser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinThrift/startpage-kit.git"
+  },
+  "author": "Robin Thrift <thrift.d.robin@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinThrift/startpage-kit/issues"
+  },
+  "homepage": "https://github.com/RobinThrift/startpage-kit#readme"
+}
